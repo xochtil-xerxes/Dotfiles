@@ -1,0 +1,14 @@
+alias up="sudo dnf update"
+alias clean="sudo dnf autoremove"
+alias get="sudo dnf install"
+alias search="dnf search"
+
+alias sudo="sudo "
+
+alias grep="grep --color"
+alias h="history"
+
+alias ll="ls -lah"
+alias la="ls -a"
+#alias ls =""
+

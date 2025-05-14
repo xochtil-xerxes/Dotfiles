@@ -1,0 +1,10 @@
+alias up="sudo nala update"
+alias get="sudo nala install"
+alias yeet="sudo nala remove"
+alias clean="sudo nala clean"
+alias fetch="sudo nala fetch"
+alias aup="sudo apt update && upgrade"
+alias aget=sudo apt install"
+alias ayeet="sudo apt remove"
+
+
